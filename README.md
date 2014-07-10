@@ -1,7 +1,9 @@
-== README
+# Ruby On Rails Example project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Made this for learning purpose only. It may not be of any use to anyone , so don't mind looking into.
+
+This is just trash code :P
+
 
 Things you may want to cover:
 
